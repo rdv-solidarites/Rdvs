@@ -1,0 +1,4 @@
+﻿<module name="Config.Bindings.Rdvs">
+  <bind service="Cd62.Rdvs.Controleur.IControleurRdvs, Rdvs.Controleur, Version=1.0"
+        to="Cd62.Rdvs.Controleur.Impl.ControleurRdvs, Rdvs.Controleur, Version=1.0"/>
+</module>
