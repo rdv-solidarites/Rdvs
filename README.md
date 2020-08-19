@@ -1,6 +1,6 @@
 # Présentation
 
-Rdvs est l'implémentation d'un client pour la plateforme Rdv-Solidarités.
+Rdvs est l'implémentation d'un client pour la plateforme Rdv-Solidarités.<br/>
 Développement original réalisé par le Département du Pas-de-Calais.
 
 # Notes importantes sur la release initiale
